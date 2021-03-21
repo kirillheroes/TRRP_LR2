@@ -1,0 +1,46 @@
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\bin\Debug\netcoreapp3.1\Client.pdb
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\bin\Debug\netcoreapp3.1\Common.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\bin\Debug\netcoreapp3.1\Common.pdb
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache

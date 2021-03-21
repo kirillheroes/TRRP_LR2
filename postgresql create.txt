@@ -1,0 +1,37 @@
+create table university
+(
+	id_university serial primary key,
+	name_university varchar(200) not null
+);
+
+create table faculty
+(
+	id_faculty serial primary key,
+	name_faculty varchar(200) not null,
+	university_id integer not null,
+	foreign key (university_id) references university (id_university) on delete cascade
+);
+
+create table student
+(
+	id_student serial primary key,
+	full_name varchar(100) not null,
+	faculty_id integer not null,
+	foreign key (faculty_id) references faculty (id_faculty) on delete cascade
+);
+
+create table discipline
+(
+	id_discipline serial primary key,
+	name_discipline varchar(200) not null
+);
+
+create table grade
+(
+	id_grade serial primary key,
+	score integer not null,
+	student_id integer not null,
+	discipline_id integer not null,
+	foreign key (student_id) references student (id_student) on delete set null,
+	foreign key (discipline_id) references discipline (id_discipline) on delete set null
+);

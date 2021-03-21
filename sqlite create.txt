@@ -1,0 +1,7 @@
+create table all_data (
+    university_name varchar(200) not null,
+    faculty_name varchar(200) not null,
+    student_full_name varchar(200) not null,
+    discipline_name varchar(200) not null,
+    grade integer not null
+);

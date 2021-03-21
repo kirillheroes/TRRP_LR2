@@ -1,0 +1,5 @@
+drop table grade;
+drop table discipline;
+drop table student;
+drop table faculty;
+drop table university;

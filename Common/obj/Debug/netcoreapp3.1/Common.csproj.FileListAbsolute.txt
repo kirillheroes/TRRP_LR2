@@ -1,0 +1,18 @@
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Common\obj\Debug\netcoreapp3.1\Common.pdb
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Common\obj\Debug\netcoreapp3.1\Common.pdb

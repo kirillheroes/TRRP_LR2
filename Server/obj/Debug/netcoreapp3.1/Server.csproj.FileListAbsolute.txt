@@ -1,0 +1,38 @@
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\nasya\Desktop\ТРРП\лр2\SocketMQ\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\bin\Debug\netcoreapp3.1\Common.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\bin\Debug\netcoreapp3.1\Common.pdb
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\С телефона (новое, старое на старом ноуте)\По учебе\триместр 10\ТРРП (Распределённые приложения)\лаб 2\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
